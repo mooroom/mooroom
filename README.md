@@ -26,9 +26,18 @@ Here are some ideas to get you started:
 <h1>Tech stack</h1>
 
 <p>
+  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=TypeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/react--native-000000?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/firebase-000000.svg?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
 <h1>Design stack</h1>
