@@ -1,6 +1,6 @@
 ### recursion_to_the_basics, mooroom
 
-단정짓지 않고 끊임없이 물음을 이어나가며, 기본을 가장 중요시 여깁니다.
+단정짓지 않고 끊임없이 물음을 이어나가며, 기본에 충실하기 위해 노력합니다.
 
 ```
 (function mooroom(){mooroom()})();
