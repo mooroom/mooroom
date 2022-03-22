@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 <h1>Recent works</h1>
 
 <p>
-  <b>[21.06-21.12]  <a href="https://k-booktranscon.kr/">2021 한국도서번역대회</a></b>
+  <b>[21.06-21.12]  <a href="https://k-booktranscon.kr/" target="_blank">2021 한국도서번역대회</a></b>
 </p>
 <p>
-  <b>[21.04-21.05]  <a href="https://child-lib-con.web.app/">2021 어린이날 도서관 큰잔치</a></b>
+  <b>[21.04-21.05]  <a href="https://child-lib-con.web.app/" target="_blank">2021 어린이날 도서관 큰잔치</a></b>
 </p>
