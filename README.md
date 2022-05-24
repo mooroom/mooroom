@@ -58,5 +58,5 @@ Here are some ideas to get you started:
   <b>[21.04-21.05]  <a href="https://child-lib-con.web.app/" target="_blank" rel="noopener noreferrer">2021 어린이날 도서관 큰잔치</a></b>
 </p>
 <p>
-  <b>[22.04-21.05]  <a href="https://apps.apple.com/kr/app/%ED%94%84%EB%9D%BC%EC%9D%B4%EC%8A%A4%EB%9E%A9-price-lab/id1620146903" target="_blank" rel="noopener noreferrer">프라이스랩</a></b>
+  <b>[22.04-22.05]  <a href="https://apps.apple.com/kr/app/%ED%94%84%EB%9D%BC%EC%9D%B4%EC%8A%A4%EB%9E%A9-price-lab/id1620146903" target="_blank" rel="noopener noreferrer">프라이스랩</a></b>
 </p>
