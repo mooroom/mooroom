@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/firebase-000000.svg?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
-
+<!-- 
 <h1>Design stack</h1>
 
 <p>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-000000.svg?style=for-the-badge&logo=Adobe Illustrator&logoColor=white" />
 </p>
-
+ -->
 <h1>Recent works</h1>
 
 <p>
