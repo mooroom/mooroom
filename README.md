@@ -1,12 +1,4 @@
-### recursion_to_the_basics, mooroom
-
-단정짓지 않고 끊임없이 물음을 이어나가며, 기본에 충실하기 위해 노력합니다.
-
-```
-(function mooroom(){mooroom()})();
-```
-
-
+#단정짓지 않고 끊임없이 물음을 이어나가며, 기본에 충실하기 위해 노력합니다.
 
 <!--
 **mooroom/mooroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
